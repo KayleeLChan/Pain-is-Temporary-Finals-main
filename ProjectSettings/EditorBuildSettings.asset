@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hadestown.unity
+    guid: 26e79719a808d2744a7cda1f2643b0e2
+  - enabled: 1
+    path: Assets/Scenes/Ghost Quartet.unity
+    guid: 5aa4c7f390839f74d936bab4933901ab
+  - enabled: 1
+    path: Assets/Scenes/Great Comet.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Hooray.unity
+    guid: e5e95939296ea3340adff929039d6f08
+  m_configObjects: {}
